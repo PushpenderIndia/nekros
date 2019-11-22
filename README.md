@@ -34,6 +34,25 @@ It is the responsibility of end user to use this Software ethically and for test
 
 THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
 
+## Warning : PAY ATTENTION
+
+If you are using this software then it means you agrees our T&C i.e Any misuse of this software, **YOU - THE END USER** is responsile and not the author.
+
+Our aim of building this software is to give the Practical Knowledge of Ransomeware so that we can Build a Better Cyber Army Which can fight against the Cyber Crimes.
+
+The primary (and original) goal of this project was to provide a proof-of-concept which demonstrated Python's capabilities as a language for real-world malware development as **Traditionally** C, C++ is used to Create Stuff like this.
+
+## Note : Project Under Development
+
+#### TODO 
+- [ ] Making GUI Ransomeware Generator
+- [ ] Implement Change language Function
+- [ ] Improve C&C Server/Website, put some checks that if **payment == True**, then only Retrive Key from Database.
+- [ ] Add New Features
+
+#### By Default, Ransomeware Targets .lol, .mrrobot extension files
+**Even thought not suggested**, But You Can test it even on your main system, as by default it targets **.lol** and **.mrrobot** extensions file, for testing purpose make your own files with these entensions and then run **main.py**
+
 ## Features
 - [x] Works on Windows.
 - [x] Generates Unique Machine ID for Victim System's Identification.
@@ -59,6 +78,9 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 - [ ] Generated Payload is Encryted with base64, hence makes extremely difficult to reverse engineer the payload **(Coming Soon)**
 - [ ] Function to Kill Antivirus on Victim PC and tries to disable the security  **(Coming Soon)**
 
+## Prerequisite
+- [x] Python 3.X , **Recommended 3.7**
+- [x] Few External Modules like **pycryptodome**, **configparser**, **mysql-connector-python** etc.
 
 ## Tested On
 
@@ -191,3 +213,52 @@ Attack is Divided Into **3 Stages**, Stages are Completed By **Main** Program (m
 
 #### Website showing Result
 ![](/images/website2.png)
+
+## Usage 
+
+* Upload Website Folder's Content to your server and update **get_decrypt_code.php** with right creds. present in **website/php/**
+* Create Database and Import **nekros.sql** in it.
+* Update **config.txt** present in **Ransomeware** folder.
+* Update **config.txt** present in **db_manager** folder to Manage database using GUI Window.
+* Install python and then install required modules using this command :
+
+```
+$ python -m pip install requirements.txt
+```
+
+* Run **main.py** like this
+
+```
+$ python main.py
+```
+
+## Decryption of Files
+
+* Key is Exported to Server/Website before encryption process starts 
+* Simply Acquire that key from Database throught website by Typing the Machine ID in website page **OR** Directly look for key in database.
+* Paste that Key in GUI Window **OR** Direclty Run **reverse_attack.py** and paste the KEY in script
+```
+#Run reverse_attack.py like this
+$ python reverse_attack.py
+```
+
+## Contribute
+
+Currently this repo is maintained by me (Pushpender Singh). Owner of https://www.technowlogy.tk Website.
+
+Please Contribute this Project, and make this Project **THE BEST**, All pull request will be accepted if they were worthy fro this project : )
+
+
+## Contact 
+singhpushpender250@gmail.com or [Contact Us](https://technowlogy.tk/contact-us)
+
+
+## Donation
+#### Save a Hacker from starvation 
+![](/images/request.jpg)
+
+- [ ] PayPal Me, Even 1 dollar of donation would be a great help :)
+- [ ] PayPal Address: PayPal.me/anonyindia
+
+## More Features Coming Soon...
+
