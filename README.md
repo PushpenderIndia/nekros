@@ -27,6 +27,9 @@ Project is made for good purpose, unethical use is prohibited, misuse of this pr
 
 It is the responsibility of end user to use this Software ethically and for testing purpose only : )
 
+## NekRos - THE MOST Scariest Ransomeware
+![](/images/Banner.jpg)
+
 ## Disclaimer
 <p align="center">
   :computer: This project was created only for good purposes and personal use.
