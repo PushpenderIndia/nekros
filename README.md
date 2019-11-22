@@ -36,6 +36,10 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 
 ## Warning : PAY ATTENTION
 
+<p align="center">
+  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/warning.png" alt="Warning Image" />
+</p>
+
 If you are using this software then it means you agrees our T&C i.e Any misuse of this software, **YOU - THE END USER** is responsile and not the author.
 
 Our aim of building this software is to give the Practical Knowledge of Ransomeware so that we can Build a Better Cyber Army Which can fight against the Cyber Crimes.
