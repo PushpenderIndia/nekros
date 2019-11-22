@@ -187,7 +187,7 @@ Attack is Divided Into **3 Stages**, Stages are Completed By **Main** Program (m
 ![](/images/db_manager.PNG)
 
 #### Website Asking for Machine ID 
-![](/images/webiste1.png)
+![](/images/website1.png)
 
 #### Website showing Result
-![](/images/webiste2.png)
+![](/images/website2.png)
