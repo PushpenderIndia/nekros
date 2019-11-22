@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/Text_LOGO.png" alt="NekRos Logo" Logo" width=200 height=200/>
+  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/Text_LOGO.png" alt="NekRos Logo" Logo" />
 </p>
 
 <h1 align="center">NekRos - Ransomeware</h1>
