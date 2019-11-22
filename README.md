@@ -37,7 +37,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 ## Warning : PAY ATTENTION
 
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/warning.png" alt="Warning Image" />
+  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/warning_img.png" alt="Warning Image" />
 </p>
 
 If you are using this software then it means you agrees our T&C i.e Any misuse of this software, **YOU - THE END USER** is responsile and not the author.
