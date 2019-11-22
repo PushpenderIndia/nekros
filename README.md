@@ -34,6 +34,14 @@ It is the responsibility of end user to use this Software ethically and for test
 
 THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
 
+## What is Ransomeware ?
+
+<p align="center">
+  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/Ransomware-Photo.png" alt="Ransomeware Scenario" width=350 height=350 />
+</p>
+
+**Ransomware** is a type of malware which **encrypts** the Data of Victim's PC making **Data un-usable**, they are mainly published to Encrypt victim's data which **perpetually block the access** to data unless a ransom is paid to Attacker/Hacker so that Decryption/Recovery of Data could be done. 
+
 ## Warning : PAY ATTENTION
 
 <p align="center">
