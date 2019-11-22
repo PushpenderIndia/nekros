@@ -1,0 +1,24 @@
+
+[DB_CREDS]
+server = localhost
+username = root
+password = 
+db_name = nekros
+
+[TARGET_EXTENSIONS]
+list1 : ['lol', 'mrrobot']
+
+[EXCLUDED_DIRECTORY]
+#list1 : ['C:\\Users\\satender singh\\Desktop\\',]
+list1 : []
+
+[GUI_SETTINGS]
+ransomeware_title = NekRos - Ransomeware
+wallet_addr = 22mdKVNfAhLbRDLtRWQFhQgyOgU6bUMjay
+btc_fee = 0.5 BTC
+retrive_key_url = localhost/website/
+about_us_url = localhost/website/about_us.html
+
+[Time_Interval_TO_Change_Wallpaper]
+time_sec = 5
+

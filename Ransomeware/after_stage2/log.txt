@@ -1,0 +1,7 @@
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\check_log.py
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\check_log.tcl
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\GUI.py
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\GUI.zip
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\img
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\timer.py
+C:\Users\pushpender\Desktop\Ransomeware\Progress\GUI\__pycache__

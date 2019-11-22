@@ -1,0 +1,6 @@
+
+[DB_CREDS]
+server = localhost
+username = root
+password = 
+db_name = nekros
