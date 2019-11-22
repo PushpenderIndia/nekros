@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
   <a href="https://github.com/Technowlogy-Pushpender/nekros/releases">
-    <img src="https://img.shields.io/badge/Release-1.2-blue.svg">
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
     <a href="https://github.com/Technowlogy-Pushpender/nekros">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
@@ -175,19 +175,19 @@ Attack is Divided Into **3 Stages**, Stages are Completed By **Main** Program (m
 ## ScreenShots
 
 #### Main GUI Window of NekRos Ransomeware
-![](/img/nekros_ransomeware.PNG)
+![](/images/nekros_ransomeware.PNG)
 
 #### Check Encryped Files Log ~ GUI Window
-![](/img/Check_LOG_Window.PNG)
+![](/images/Check_LOG_Window.PNG)
 
 #### Decryptor ~ GUI Window
-![](/img/Decryptor.PNG)
+![](/images/Decryptor.PNG)
 
 #### Database Manager ~ For Attacker 
-![](/img/db_manager.PNG)
+![](/images/db_manager.PNG)
 
 #### Website Asking for Machine ID 
-![](/img/webiste1.png)
+![](/images/webiste1.png)
 
 #### Website showing Result
-![](/img/webiste2.png)
+![](/images/webiste2.png)
