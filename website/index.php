@@ -30,7 +30,7 @@
 				<h4 id="decrypt_key"></h4>
 				<a id="link_return" href="" title="Return"><h4>Return</h4></a>
 			</fieldset>
-			<p class="copyright">Copyright &copy; <?php echo date("Y"); ?> <a title="Technowlogy" href="https://www.technowlogy.tk/" target="_blank">Technowlogy</a>  - RansPy. All rights reserved.</p>
+			<p class="copyright">Copyright &copy; <?php echo date("Y"); ?> <a title="Technowlogy" href="https://www.technowlogy.tk/" target="_blank">Technowlogy</a>  - NekRos. All rights reserved.</p>
 		</form>
 	</div>
 	
