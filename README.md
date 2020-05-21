@@ -268,12 +268,11 @@ Please Contribute this Project, and make this Project **THE BEST**, All pull req
 singhpushpender250@gmail.com or [Contact Us](https://technowlogy.tk/contact-us)
 
 
-## Donation
-#### Save a Hacker from starvation 
-![](/images/request.jpg)
+## Buy Me A Coffee
 
-- [ ] PayPal Me, Even 1 dollar of donation would be a great help :)
-- [ ] PayPal Address: PayPal.me/anonyindia
+* Support my Open Source projects by making Donation, It really motivates me to work on more projects
+* PayPal Address: https://paypal.me/anonyindia
+* PayPal Email: `singhpushpender250@gmail.com`
 
 ## More Features Coming Soon...
 
