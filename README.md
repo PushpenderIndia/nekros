@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/Text_LOGO.png" alt="NekRos Logo" Logo" />
+  <img src="https://github.com/PushpenderIndia/nekros/blob/master/images/Text_LOGO.png" alt="NekRos Logo" Logo" />
 </p>
 
 <h1 align="center">NekRos - Ransomeware</h1>
@@ -7,13 +7,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/nekros/blob/master/LICENSE">
+  <a href="https://github.com/PushpenderIndia/nekros/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/Technowlogy-Pushpender/nekros/releases">
+  <a href="https://github.com/PushpenderIndia/nekros/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/Technowlogy-Pushpender/nekros">
+    <a href="https://github.com/PushpenderIndia/nekros">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -40,7 +40,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 ## What is Ransomeware ?
 
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/Ransomware-Photo.png" alt="Ransomeware Scenario" width=350 height=350 />
+  <img src="https://github.com/PushpenderIndia/nekros/blob/master/images/Ransomware-Photo.png" alt="Ransomeware Scenario" width=350 height=350 />
 </p>
 
 **Ransomware** is a type of malware which **encrypts** the Data of Victim's PC making **Data un-usable**, they are mainly published to Encrypt victim's data which **perpetually block the access** to data unless a ransom is paid to Attacker/Hacker so that Decryption/Recovery of Data could be done. 
@@ -48,7 +48,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 ## Warning : PAY ATTENTION
 
 <p align="center">
-  <img src="https://github.com/Technowlogy-Pushpender/nekros/blob/master/images/warning_img.png" alt="Warning Image" />
+  <img src="https://github.com/PushpenderIndia/nekros/blob/master/images/warning_img.png" alt="Warning Image" />
 </p>
 
 If you are using this software then it means you agrees our T&C i.e Any misuse of this software, **YOU - THE END USER** is responsile and not the author.
@@ -259,20 +259,19 @@ $ python reverse_attack.py
 
 ## Contribute
 
-Currently this repo is maintained by me (Pushpender Singh). Owner of https://www.technowlogy.tk Website.
+Currently this repo is maintained by me (Pushpender Singh).
 
 Please Contribute this Project, and make this Project **THE BEST**, All pull request will be accepted if they were worthy fro this project : )
 
 
 ## Contact 
-singhpushpender250@gmail.com or [Contact Us](https://technowlogy.tk/contact-us)
+singhpushpender250@gmail.com 
 
 
 ## Buy Me A Coffee
 
 * Support my Open Source projects by making Donation, It really motivates me to work on more projects
-* PayPal Address: https://paypal.me/anonyindia
-* PayPal Email: `singhpushpender250@gmail.com`
+* PayPal Email: `shrisatender@gmail.com` [**Please Don't Send Emails to This Address**]
 
 ## More Features Coming Soon...
 
