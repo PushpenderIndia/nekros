@@ -238,7 +238,7 @@ Attack is Divided Into **3 Stages**, Stages are Completed By **Main** Program (m
 * Install python and then install required modules using this command :
 
 ```
-$ python -m pip install requirements.txt
+$ pip install requirements.txt
 ```
 
 * Run **main.py** like this
@@ -256,16 +256,3 @@ $ python main.py
 #Run reverse_attack.py like this
 $ python reverse_attack.py
 ```
-
-## Contribute
-
-Currently this repo is maintained by me (Pushpender Singh).
-
-Please Contribute this Project, and make this Project **THE BEST**, All pull request will be accepted if they were worthy fro this project : )
-
-
-## Contact 
-singhpushpender250@gmail.com 
-
-## More Features Coming Soon...
-
